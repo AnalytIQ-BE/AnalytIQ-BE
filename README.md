@@ -13,3 +13,13 @@ Welcome to the **AnalytIQ-BE** repository! This is a specialized repository dedi
 1. Clone the repository:
    ```bash
    git clone https://github.com/AnalytIQ-BE/AnalytIQ-BE.git
+
+2. Install the necessary dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Explore the various directories for different machine learning models, neural network architectures, and related utilities.
+
+## Contributing
+Feel free to fork this repository, contribute by submitting issues, or improving the existing models. We welcome collaboration and feedback.
+
