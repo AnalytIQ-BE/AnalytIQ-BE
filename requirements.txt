@@ -1,0 +1,20 @@
+# Machine Learning Libraries
+scikit-learn==1.2.2
+pandas==1.5.3
+numpy==1.24.0
+
+# Neural Networks and Deep Learning
+tensorflow==2.12.0
+keras==2.12.0
+torch==1.14.0
+torchvision==0.15.0
+
+# Data Preprocessing and Visualization
+matplotlib==3.7.0
+seaborn==0.12.2
+scipy==1.11.0
+
+# Other Utilities
+jupyter==1.0.0
+joblib==1.2.0
+pillow==9.5.0
